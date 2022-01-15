@@ -34,7 +34,7 @@
 
 <br />
 <br />
- ### 👉 IDE
+ ### 👉 OS
  
 <p align="center">
   &emsp;
