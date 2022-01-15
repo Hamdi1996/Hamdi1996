@@ -34,7 +34,7 @@
 
 <br />
 <br />
- ### 👉 IDEs
+ ### 👉 IDE
  
 <p align="center">
   &emsp;
@@ -45,7 +45,7 @@
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
 </p>
 
- ### 👉 Operating Systems
+ ### 👉 OS
  
 <p align="center">
   &emsp;
