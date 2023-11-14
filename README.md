@@ -1,12 +1,12 @@
 ### Hi there, I am Hamdy Mahmoud 👋
 
 
-<h2>I'm a Web Developer!!</h2>
+<h2>I'm a Software Engineer!!</h2>
 
-- 🔭 I’m currently seeking for opportunity as web developer.
-- 🌱 I’m currently learning Nodejs and Laravel
+- 🔭 I’m currently working @Dafater as a Full Satck-Web Developer.
+- 🌱 I’m currently learning Django Framework
 - 👯 I’m looking to collaborate with other developers and content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects and solve more coding challenges
+- 🥅 2023 Goals: Contribute more to Open Source projects and solve more coding challenges
 - ⚡ Fun fact: Code Run Then Have Fun!!😄
 
 ### Connect with me:
@@ -60,4 +60,5 @@
 
 [youtube]: https://www.youtube.com/channel/UCGLbRWpS30fVOEGzrBaerdw
 [linkedin]: https://www.linkedin.com/in/hamdimahmoud/
+[website]: https://hamdi1996.github.io/portfolio/
 
