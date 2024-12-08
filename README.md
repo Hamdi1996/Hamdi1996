@@ -4,9 +4,8 @@
 <h2>I'm a Software Engineer!!</h2>
 
 - 🔭 I’m currently working @Dafater as a Full Satck-Web Developer.
-- 🌱 I’m currently learning Django Framework
 - 👯 I’m looking to collaborate with other developers and content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects and solve more coding challenges
+- 🥅 Goals: Contribute more to Open Source projects and solve more coding challenges
 - ⚡ Fun fact: Code Run Then Have Fun!!😄
 
 ### Connect with me:
